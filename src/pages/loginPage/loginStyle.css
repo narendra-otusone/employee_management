@@ -1,0 +1,49 @@
+
+.login-field{
+    width: 100%;
+    /* margin: 10vh auto; */
+  }
+
+  .emp-login{
+    width: 50vw;
+    border: 1px solid gray;
+    padding: 3em 5em;
+    margin: 10vh auto;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+
+  }
+
+  /* admin login */
+
+  .admin-login{
+    width: 50vw;
+    border: 1px solid rgb(121, 18, 18);
+    padding: 3em 5em;
+    margin: 10vh auto;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+  }
+  .heading-body{
+    width: 308px;
+  }
+  .heading{
+    margin: 0 auto;
+  }
+  .forgat-password a{
+    text-decoration: none;
+    border-bottom: 1px solid #000;
+    color: #000;
+  }
+  .form-check a{
+    text-decoration: none;
+    border-bottom: 1px solid #000;
+    color: #000;
+  }
+  .float-r a{
+    text-decoration: none;
+    border-bottom: 1px solid #000;
+    color: #000;
+  }

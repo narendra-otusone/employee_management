@@ -1,38 +1,98 @@
-.App {
+.main-page{
+  text-align: center;
+  margin-top: 50px;
+  width: 100%;
+  
+}
+.mainpage-btn{
+  width: 300px;
+  margin: 200px auto;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+}
+.text-link {
+  color: black;
+  text-decoration: inherit;
+  margin-left: 10px;
+}
+
+
+
+/* Employee profile */
+.profile{
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  /* margin-left: 30vw; */
+}
+
+.profile-card{
+  margin: 10vh auto;
+}
+
+
+.profile-pic{
+  width: "60%" !important;
+  height: "150px";
+  border-radius: "50%"; 
+  margin: "auto"
+}
+
+
+/* employee-login */
+
+/* employee registration detaisl */
+.reg-details{
+  width: 100%;
+}
+.reg-heading{
+  width: 700px;
+  margin: 0 auto;
+}
+.registration-data{
+  width: 100%;
+  margin-top: 20px;
+ 
+}
+
+
+/* btn-update */
+.btn-style{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 5vh 0;
+  padding: 30px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+}
+
+/* leave form    */
+
+.leave-form{
+  width: 100%
+}
+.leave-card{
+  width: 300px;
+  height: 350px;
+  margin: 10vh auto;
+  padding: 30px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  /* background-color: aqua; */
+}
+
+.btn-leave{
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.card-body{
+  padding: 30px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+li a{
+  text-decoration: none;
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+padding: 15px;}

@@ -1,0 +1,11 @@
+.heading{
+    width:500px
+    /* margin: 20px auto; */
+}
+.heading-body{
+    width: 300px;
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+.leave-status{
+    /* background-color: brown; */
+}
+.task-status{
+    /* background-color: aquamarine; */
+    height: 100vh;
+}
+
+.float-r{
+    display: block;
+    float: right;
+}

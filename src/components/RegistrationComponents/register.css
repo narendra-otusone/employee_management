@@ -1,0 +1,34 @@
+.forgat-password{
+    display: flex;
+    float: right;
+    justify-content:right;
+    padding: 10px 0;
+    /* align-items:cen; */
+    width: 100%;
+}
+
+.role-based-login{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.float-r a{
+    color: #1c9681;
+    text-decoration: none;
+    border-bottom: 1px solid #eb7f37;
+}
+
+
+.registration{
+    width: 50vw;
+    border: 1px solid rgb(121, 18, 18);
+    padding: 3em 5em;
+    margin: 10vh auto;
+}
+.registration{
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+}
